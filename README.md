@@ -43,5 +43,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Weather data provided by [Weather API Provider]
-- Icons and design elements from [Source]
+- Weather data provided by OpenWeatherMap API 
+- Icons and design elements from https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
