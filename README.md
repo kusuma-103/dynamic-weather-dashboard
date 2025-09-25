@@ -6,6 +6,7 @@ A web-based weather dashboard that provides dynamic weather information and fore
 
 This project is a weather dashboard web application that allows users to check current weather conditions and forecasts. Built with HTML, it provides an intuitive interface for accessing weather data.
 
+
 ## Features
 
 - Current weather conditions display
@@ -39,7 +40,7 @@ If you'd like to contribute to this project, please fork the repository and crea
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
 
 ## Acknowledgments
 
